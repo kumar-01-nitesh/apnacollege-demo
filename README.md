@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git repository.
 <br>
-Author - Nitesh kumar
+Author - Nitesh kumar yadv
